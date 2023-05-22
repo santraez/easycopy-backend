@@ -1,8 +1,7 @@
 <div align="center">
-  <h1 style="font-size: 48px;">Easycopy</h1>
+  <h1 style="font-size: 48px;">EASYCOPY</h1>
+  <h3 style="font-size: 48px;">available for 10 minutes..</h3>
 </div>
-
-![Logo de Easycopy](ruta_del_logo.png)
 
 Easycopy is a web application designed to solve the problem of transferring information, whether it's text or links, between different devices such as computers and smartphones. The application allows you to temporarily store the provided text information and generates a unique three-word key. This key can be used to open the message on any device with internet access. The message will only be available for 10 minutes and will be permanently deleted afterward. 
 
