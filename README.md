@@ -18,15 +18,17 @@ Here are some screenshots to give you a glimpse of the Easycopy interface:
 
 1. **Homepage:** The homepage showcases the main features and functionality of Easycopy.
 
-   ![Homepage](ruta_de_la_imagen.png)
+   ![Homepage](https://raw.githubusercontent.com/santraez/easycopy/main/src/assets/home.png)
 
 2. **Text entry:** Users can enter the text information they want to share and generate a unique key.
 
-   ![Text entry](ruta_de_la_imagen.png)
+   ![Text entry](https://github.com/santraez/easycopy/blob/main/src/assets/i1.png)
+   ![Text entry](https://github.com/santraez/easycopy/blob/main/src/assets/i2.png)
 
 3. **Message retrieval:** Users can access the message using the unique three-word key on any device.
 
-   ![Message retrieval](ruta_de_la_imagen.png)
+   ![Message retrieval](https://github.com/santraez/easycopy/blob/main/src/assets/o1.png)
+   ![Message retrieval](https://github.com/santraez/easycopy/blob/main/src/assets/o2.png)
 
 ## Technologies Used
 
@@ -58,5 +60,5 @@ If you would like to contribute to Easycopy, you are more than welcome! Feel fre
 
 ## License
 
-This project is licensed under the MIT License. For more information, please see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. For more information, please see the [LICENSE](https://github.com/santraez/easycopy/blob/main/LICENSE) file.
 
