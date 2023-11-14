@@ -1,5 +1,5 @@
 {
-  "name": "easycopy",
+  "name": "easycopy-backend",
   "version": "1.2.0",
   "description": "save and copy something for 10 minutes",
   "main": "./src/app.js",
@@ -9,7 +9,6 @@
     "dev": "nodemon ./src/app.js --exec babel-node"
   },
   "keywords": [],
-  "author": "santraez",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
